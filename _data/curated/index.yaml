@@ -1,67 +1,4 @@
 ---
-- curated_id: 6c54401f78d6cd680a0a3ca23b45335a
-  item_date: "2014-01-26 00:00:00"
-  title: 'Technical Vistas: Flat Files and APIs'
-  url: http://academics.umw.edu/dtlt/2014/01/26/technical-vistas-flat-files-and-apis/
-  domain: academics.umw.edu
-  image: ""
-- curated_id: e01c1a623220f594f7f1ae528e570ca5
-  item_date: "2014-07-22 19:04:30"
-  title: Reclaim Your Domain LA Hackathon Wrap-up
-  url: http://kinlane.com/2014/07/22/reclaim-your-domain-la-hackathon-wrapup/
-  domain: kinlane.com
-  image: ""
-- curated_id: 218873d850d51ce04f1a44a7acf25660
-  item_date: "2014-07-23 00:00:00"
-  title: Reclaim Hackathon
-  url: https://hapgood.us/2014/07/23/reclaim-hackathon/
-  domain: hapgood.us
-  image: ""
-- curated_id: 07eada733b2212f67873237c862e13f6
-  item_date: "2014-08-03 00:00:00"
-  title: S3 Commando (Line)
-  url: http://bavatuesdays.com/s3-commando-line/
-  domain: bavatuesdays.com
-  image: ""
-- curated_id: ba6506742135d00be9a031ecaf0cdd8d
-  item_date: "2014-08-04 00:00:00"
-  title: 'Building a respectful social publishing platform that gives you full control
-    #indieweb'
-  url: http://stream.withknown.com/2014/building-a-respectful-social-publishing-platform-that-gives-you-full
-  domain: stream.withknown.com
-  image: ""
-- curated_id: e1044759a98a186aea4e79a386ab7b2b
-  item_date: "2014-08-18 00:00:00"
-  title: 'Known for Education: a personal learning environment for the connected student.
-    http://withknown.com/education/'
-  url: http://stream.withknown.com/2014/known-for-education-a-personal-learning-environment-for-the-connected
-  domain: stream.withknown.com
-  image: ""
-- curated_id: 8518c6f01909430c19f288a177b421f8
-  item_date: "2014-09-30 00:00:00"
-  title: Yes, we very much would like to give people the ability to find and follow
-    other sites on Known.  For our classes of students
-  url: http://stream.withknown.com/2014/yes-we-very-much-would-like-to-give-people-the
-  domain: stream.withknown.com
-  image: ""
-- curated_id: 89a3d49466d82e436b5694f428693838
-  item_date: "2014-09-30 00:00:00"
-  title: 30 Ways to Organize, Search and Automate Gmail to Save You Time
-  url: https://zapier.com/blog/organize-search-automate-gmail-inbox/
-  domain: zapier.com
-  image: ""
-- curated_id: 2ec05a86106e3c836d4db419dd257284
-  item_date: "2014-11-04 00:00:00"
-  title: Dockers
-  url: http://bavatuesdays.com/dockers/
-  domain: bavatuesdays.com
-  image: ""
-- curated_id: 69f8c8e016e8d7e5000905c4b1e83b31
-  item_date: "2014-12-21 00:00:00"
-  title: Helping the Right Ideas Find One Another (FEDWIKI HAPPENING)
-  url: https://hapgood.us/2014/12/21/helping-the-right-ideas-find-one-another-fedwiki-happening/
-  domain: hapgood.us
-  image: ""
 - curated_id: a59eee0198ede2fc2a9cfe3deff74662
   item_date: "2015-01-07 00:00:00"
   title: 'Factual Featured Partner: Snips'
@@ -185,16 +122,16 @@
   url: http://stream.withknown.com/2015/self-hosted-known-0785-has-left-the-building
   domain: stream.withknown.com
   image: ""
-- curated_id: b752b49250e0b681921f381d017baa56
-  item_date: "2015-05-19 00:00:00"
-  title: Improving data literacy in Macedonia
-  url: http://schoolofdata.org/2015/05/19/improving-data-literacy-in-macedonia/
-  domain: schoolofdata.org
-  image: ""
 - curated_id: 92cb3116c09d1b52d1434e5045212539
   item_date: "2015-05-19 00:00:00"
   title: Data literacy is about saving lives as well
   url: http://schoolofdata.org/2015/05/19/data-literacy-is-about-saving-lives-as-well/
+  domain: schoolofdata.org
+  image: ""
+- curated_id: b752b49250e0b681921f381d017baa56
+  item_date: "2015-05-19 00:00:00"
+  title: Improving data literacy in Macedonia
+  url: http://schoolofdata.org/2015/05/19/improving-data-literacy-in-macedonia/
   domain: schoolofdata.org
   image: ""
 - curated_id: b50d73d147e64d21e363094994338269
@@ -233,17 +170,17 @@
   url: http://bavatuesdays.com/a-personal-api/
   domain: bavatuesdays.com
   image: ""
-- curated_id: 2185da8670bbef8487e31f58ff59510c
-  item_date: "2015-06-11 00:00:00"
-  title: Reclaim Hosting
-  url: http://opencontent.org/blog/archives/3908
-  domain: opencontent.org
-  image: ""
 - curated_id: a892cf0c93f590d63242a4f58972a7c6
   item_date: "2015-06-11 00:00:00"
   title: 'The Un-education of a Technologist: From EDUPUNK to ds106'
   url: http://bavatuesdays.com/the-un-education-of-a-technologist-from-edupunk-to-ds106/
   domain: bavatuesdays.com
+  image: ""
+- curated_id: 2185da8670bbef8487e31f58ff59510c
+  item_date: "2015-06-11 00:00:00"
+  title: Reclaim Hosting
+  url: http://opencontent.org/blog/archives/3908
+  domain: opencontent.org
   image: ""
 - curated_id: 6cdc1a8953263fa077d14bb21f71ff4e
   item_date: "2015-06-14 00:00:00"
@@ -377,16 +314,16 @@
   url: http://followersoftheapocalyp.se/scholarly-debt-and-deficit/
   domain: followersoftheapocalyp.se
   image: ""
-- curated_id: 2afc3f7653b0282b26d70f8185f5511c
-  item_date: "2016-01-27 00:00:00"
-  title: 6 Ways Hackers Can Monetize Your Life
-  url: http://www.huffingtonpost.com/jason-glassberg/6-ways-hackers-can-moneti_b_9078224.html
-  domain: www.huffingtonpost.com
-  image: ""
 - curated_id: 545f189b94f54cf8b36f748b45c671ca
   item_date: "2016-01-27 00:00:00"
   title: Your Digital Footprint and Why You Need to Manage It
   url: http://www.huffingtonpost.com/daniel-burrus/your-digital-footprint-an_b_9091250.html
+  domain: www.huffingtonpost.com
+  image: ""
+- curated_id: 2afc3f7653b0282b26d70f8185f5511c
+  item_date: "2016-01-27 00:00:00"
+  title: 6 Ways Hackers Can Monetize Your Life
+  url: http://www.huffingtonpost.com/jason-glassberg/6-ways-hackers-can-moneti_b_9078224.html
   domain: www.huffingtonpost.com
   image: ""
 - curated_id: 58c5864568c2e0110f99bb7cd03efbae
@@ -628,18 +565,18 @@
   url: http://thenextweb.com/insider/2016/08/03/comcast-isps-should-be-able-to-sell-your-web-history-to-advertisers/
   domain: thenextweb.com
   image: ""
-- curated_id: 47eb70630b3529bfe682096962739d70
-  item_date: "2016-08-09 00:00:00"
-  title: 'Your medical data: misappropriated by health-tech companies, off-limits
-    to you'
-  url: http://boingboing.net/2016/08/09/your-medical-data-misappropri.html
-  domain: boingboing.net
-  image: ""
 - curated_id: f221ea6b8581b241b3078c5e6af8d35e
   item_date: "2016-08-09 00:00:00"
   title: 'Mysterious medical research consortium: we should own volunteers clinical
     trial data for 5 years'
   url: http://boingboing.net/2016/08/09/mysterious-medical-research-co.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 47eb70630b3529bfe682096962739d70
+  item_date: "2016-08-09 00:00:00"
+  title: 'Your medical data: misappropriated by health-tech companies, off-limits
+    to you'
+  url: http://boingboing.net/2016/08/09/your-medical-data-misappropri.html
   domain: boingboing.net
   image: ""
 - curated_id: 759bb638ac883b97f7533b7620b5c227
@@ -673,29 +610,29 @@
   url: http://healthitinteroperability.com/news/how-health-it-standards-enable-patient-access-to-health-data
   domain: healthitinteroperability.com
   image: ""
-- curated_id: 5e82b8d284b0a822054933a51e5c82d2
-  item_date: "2016-08-30 00:00:00"
-  title: Jeremy Corbyn proposing digital bill of rights
-  url: http://www.bbc.co.uk/news/uk-politics-37219140
-  domain: www.bbc.co.uk
-  image: ""
 - curated_id: 3006587676faba6584f145cc35bff69b
   item_date: "2016-08-30 00:00:00"
   title: Putting Domains Infrastructure in the Cloud
   url: http://bavatuesdays.com/putting-domains-infrastructure-in-the-cloud/
   domain: bavatuesdays.com
   image: ""
-- curated_id: 3c80d59ece2c241bde8f2780f37dbcad
+- curated_id: 5e82b8d284b0a822054933a51e5c82d2
   item_date: "2016-08-30 00:00:00"
-  title: Requesting Personal User Data in Apps
-  url: https://blog.pyze.com/2016/08/29/requesting-personal-user-data-in-apps/
-  domain: blog.pyze.com
+  title: Jeremy Corbyn proposing digital bill of rights
+  url: http://www.bbc.co.uk/news/uk-politics-37219140
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 66e6eb46d3fe212a1859115043aeb44c
   item_date: "2016-08-30 00:00:00"
   title: An Internet for Identity
   url: http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml
   domain: www.windley.com
+  image: ""
+- curated_id: 3c80d59ece2c241bde8f2780f37dbcad
+  item_date: "2016-08-30 00:00:00"
+  title: Requesting Personal User Data in Apps
+  url: https://blog.pyze.com/2016/08/29/requesting-personal-user-data-in-apps/
+  domain: blog.pyze.com
   image: ""
 - curated_id: 968848924b4c03b5f16e67bfe4255001
   item_date: "2016-09-07 00:00:00"
@@ -829,5 +766,147 @@
   title: Genetics startup Genos wants to pay you for your DNA data
   url: https://techcrunch.com/2016/11/01/genetics-startup-genos-wants-to-pay-you-for-your-dna-data/
   domain: techcrunch.com
+  image: ""
+- curated_id: 5fb4d8cdc25bff2c192c4c6633f85f9c
+  item_date: "2016-12-26 00:00:00"
+  title: New Economics
+  url: http://avc.com/2016/12/new-economics/
+  domain: avc.com
+  image: ""
+- curated_id: f33ddb35c1350071ca200ec1cadd1339
+  item_date: "2016-12-29 00:00:00"
+  title: Introducing Advanced Features in Zoho Vault to Curb Security Threats and
+    Boost Productivity
+  url: https://www.zoho.com/vault/blog/introducing-advanced-features-in-zoho-vault-to-curb-security-threats-and-boost-productivity.html
+  domain: www.zoho.com
+  image: ""
+- curated_id: 2739887e72ea2615b6e1cc0f0b127924
+  item_date: "2017-01-04 00:00:00"
+  title: "Earn up to $1,500 for Healthy Behavior with Fitbit\u2019s New Healthcare
+    Integration"
+  url: https://blog.fitbit.com/fitbit-charge-2-healthcare-integration/
+  domain: blog.fitbit.com
+  image: ""
+- curated_id: 6983d3ab9bc9d50e347ea818013ed230
+  item_date: "2017-01-30 00:00:00"
+  title: What It Takes To Truly Delete Data
+  url: https://fivethirtyeight.com/features/what-it-takes-to-truly-delete-data/
+  domain: fivethirtyeight.com
+  image: ""
+- curated_id: 0aa222e683251b021bfbef02942fe772
+  item_date: "2017-01-31 00:00:00"
+  title: Advertising and the value of your personal data
+  url: https://blog.avira.com/advertising-value-personal-data/
+  domain: blog.avira.com
+  image: ""
+- curated_id: f8fe99ccd4a412bc85d48681d4697522
+  item_date: "2017-01-31 00:00:00"
+  title: "Trump\u2019s FCC May Let ISPs Sell Your Private Data Without Your Consent\r\n"
+  url: https://motherboard.vice.com/en_us/article/trumps-fcc-may-let-isps-sell-your-private-data-without-your-consent
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 10d2f19e13ca467d25b6584622eb1d7c
+  item_date: "2017-01-31 00:00:00"
+  title: How do we enable patients to own their data?
+  url: http://www.allscripts.com/news-insights/blog/blog/2017/01/how-do-we-enable-patients-to-own-their-data
+  domain: www.allscripts.com
+  image: ""
+- curated_id: 14f5407d57e4ac63a63722036a0fdd25
+  item_date: "2017-02-03 00:00:00"
+  title: "50 Percent of Americans Don\u2019t Trust Institutions to Protect Their Data"
+  url: http://www.itsecurityguru.org/2017/02/03/50-percent-americans-dont-trust-institutions-protect-data/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: aa3d2be4f3039610587f37ff5ffa2879
+  item_date: "2017-02-03 00:00:00"
+  title: Information is garbage
+  url: https://techcrunch.com/2017/02/03/information-is-garbage/
+  domain: techcrunch.com
+  image: ""
+- curated_id: c8991158e7736a5ac450b58b0c9a4df3
+  item_date: "2017-02-08 09:12:02"
+  title: National Association for Information Destruction
+  url: http://www.naidonline.org/
+  domain: www.naidonline.org
+  image: ""
+- curated_id: dcba474a63d1e8f8b6f83f6ca05dc4cb
+  item_date: "2017-02-08 09:12:51"
+  title: Guidelines for Media Sanitization
+  url: http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf
+  domain: nvlpubs.nist.gov
+  image: ""
+- curated_id: bb5fc17dcfc96844c6bf1ac3958160be
+  item_date: "2017-02-10 09:42:45"
+  title: "QA site Quora clamps down on anonymity \u2013 will review content before
+    publishing, restrict actions"
+  url: https://techcrunch.com/2017/02/10/qa-site-quora-clamps-down-on-anonymity-will-review-content-before-publishing-restricts-actions/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 113178d6452593de97d60c6566efb747
+  item_date: "2017-02-12 00:00:00"
+  title: Cheating Frenchman sues Uber for tipping off wife about affair
+  url: http://www.bbc.co.uk/news/world-europe-38948281
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: 9a9e0e5c9bcdac83b4de7e1bd21c331e
+  item_date: "2017-02-13 00:00:00"
+  title: "Diehard Coders Just Rescued NASA\u2019s Earth Science Data"
+  url: https://www.wired.com/2017/02/diehard-coders-just-saved-nasas-earth-science-data/
+  domain: www.wired.com
+  image: ""
+- curated_id: 2f77ba0bef4964822cf74d0ac3dbb2f8
+  item_date: "2017-02-14 00:00:00"
+  title: 'Janrain Survey: Gain customer trust to get access to valuable personal data'
+  url: http://www.janrain.com/blog/janrain-survey-gain-customer-trust-to-get-access-to-valuable-personal-data/
+  domain: www.janrain.com
+  image: ""
+- curated_id: bef1f89c459c3300adbdae02ed570702
+  item_date: "2017-02-16 00:00:00"
+  title: "Why \u201CData Ownership\u201D Matters"
+  url: https://ctovision.com/data-ownership-matters/
+  domain: ctovision.com
+  image: ""
+- curated_id: aa42f68d245a5d7d7334b12431b050d8
+  item_date: "2017-02-23 00:00:00"
+  title: "Stealth startup Privacy Labs raises $4M to give consumers \u2018control\u2019
+    of their data"
+  url: https://techcrunch.com/2017/02/23/privacy-labs/
+  domain: techcrunch.com
+  image: ""
+- curated_id: bc741e0ba020d15e52b3b9c541bed2e4
+  item_date: "2017-03-10 00:00:00"
+  title: 5 Platforms Connecting Local Customers to their Online Footprints
+  url: http://streetfightmag.com/2017/03/10/5-platforms-connecting-local-customers-to-their-online-footprints/
+  domain: streetfightmag.com
+  image: ""
+- curated_id: 31efc178b00ff20e85c70a04fb9d1b8d
+  item_date: "2017-03-11 00:00:00"
+  title: 'Biotyranny and its Resistance: Who Owns Your Body?'
+  url: https://motherboard.vice.com/en_us/article/biotyranny-and-its-resistance-who-owns-your-body
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 76484077f74a8f17b5235e839d07cf0e
+  item_date: "2017-03-22 00:00:00"
+  title: 'FAQ: Online Data Brokers  People Search Sites'
+  url: https://www.privacyrights.org/blog/faq-online-data-brokers-people-search-sites
+  domain: www.privacyrights.org
+  image: ""
+- curated_id: 094ea65c25256435f7a208e7b1d36e3c
+  item_date: "2017-03-23 00:00:00"
+  title: Im doing just fine after deleting all my online accounts, thanks for asking
+  url: https://pando.com/2017/03/23/im-doing-just-fine-after-deleting-all-my-online-accounts-thanks-asking/
+  domain: pando.com
+  image: ""
+- curated_id: 428d7aa4aa5382a6ee254a04989adff4
+  item_date: "2017-04-26 00:00:00"
+  title: NFL players can track and sell their own health data
+  url: https://blog.adafruit.com/2017/04/26/nfl-players-can-track-and-sell-their-own-health-data/
+  domain: blog.adafruit.com
+  image: ""
+- curated_id: 5b7895b4d6fd6ccbc0fa9ca96579698a
+  item_date: "2017-05-10 00:00:00"
+  title: 'Awareness of How Your Data is Being Used and What to Do About It '
+  url: https://www.codeproject.com/Articles/1186562/Awareness-of-How-Your-Data-is-Being-Used-and-What
+  domain: www.codeproject.com
   image: ""
 ...

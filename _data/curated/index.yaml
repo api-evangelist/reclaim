@@ -79,18 +79,18 @@
   url: http://bavatuesdays.com/domain-of-ones-own-and-wordpress-networks/
   domain: bavatuesdays.com
   image: ""
+- curated_id: 1529de5fce6d1f94f56d98c7b24ab501
+  item_date: "2015-04-28 00:00:00"
+  title: Password Management Ground Zero for Digital Literacy
+  url: http://bavatuesdays.com/password-management-ground-zero-for-digital-literacy/
+  domain: bavatuesdays.com
+  image: ""
 - curated_id: 6e705fd28b4e2dab424d35e1e2332421
   item_date: "2015-04-28 00:00:00"
   title: It?s YOUR Mobile Data! How to Take Control of It and Put it to Work ~ Part
     2
   url: https://apsalar.com/2015/04/its-your-mobile-data-how-to-take-control-of-it-and-put-it-to-work-part-2/
   domain: apsalar.com
-  image: ""
-- curated_id: 1529de5fce6d1f94f56d98c7b24ab501
-  item_date: "2015-04-28 00:00:00"
-  title: Password Management Ground Zero for Digital Literacy
-  url: http://bavatuesdays.com/password-management-ground-zero-for-digital-literacy/
-  domain: bavatuesdays.com
   image: ""
 - curated_id: b6d3d285488bc03d0057378ec890b596
   item_date: "2015-05-01 11:23:41"
@@ -122,16 +122,16 @@
   url: http://stream.withknown.com/2015/self-hosted-known-0785-has-left-the-building
   domain: stream.withknown.com
   image: ""
-- curated_id: 92cb3116c09d1b52d1434e5045212539
-  item_date: "2015-05-19 00:00:00"
-  title: Data literacy is about saving lives as well
-  url: http://schoolofdata.org/2015/05/19/data-literacy-is-about-saving-lives-as-well/
-  domain: schoolofdata.org
-  image: ""
 - curated_id: b752b49250e0b681921f381d017baa56
   item_date: "2015-05-19 00:00:00"
   title: Improving data literacy in Macedonia
   url: http://schoolofdata.org/2015/05/19/improving-data-literacy-in-macedonia/
+  domain: schoolofdata.org
+  image: ""
+- curated_id: 92cb3116c09d1b52d1434e5045212539
+  item_date: "2015-05-19 00:00:00"
+  title: Data literacy is about saving lives as well
+  url: http://schoolofdata.org/2015/05/19/data-literacy-is-about-saving-lives-as-well/
   domain: schoolofdata.org
   image: ""
 - curated_id: b50d73d147e64d21e363094994338269
@@ -170,17 +170,17 @@
   url: http://bavatuesdays.com/a-personal-api/
   domain: bavatuesdays.com
   image: ""
-- curated_id: a892cf0c93f590d63242a4f58972a7c6
-  item_date: "2015-06-11 00:00:00"
-  title: 'The Un-education of a Technologist: From EDUPUNK to ds106'
-  url: http://bavatuesdays.com/the-un-education-of-a-technologist-from-edupunk-to-ds106/
-  domain: bavatuesdays.com
-  image: ""
 - curated_id: 2185da8670bbef8487e31f58ff59510c
   item_date: "2015-06-11 00:00:00"
   title: Reclaim Hosting
   url: http://opencontent.org/blog/archives/3908
   domain: opencontent.org
+  image: ""
+- curated_id: a892cf0c93f590d63242a4f58972a7c6
+  item_date: "2015-06-11 00:00:00"
+  title: 'The Un-education of a Technologist: From EDUPUNK to ds106'
+  url: http://bavatuesdays.com/the-un-education-of-a-technologist-from-edupunk-to-ds106/
+  domain: bavatuesdays.com
   image: ""
 - curated_id: 6cdc1a8953263fa077d14bb21f71ff4e
   item_date: "2015-06-14 00:00:00"
@@ -565,18 +565,18 @@
   url: http://thenextweb.com/insider/2016/08/03/comcast-isps-should-be-able-to-sell-your-web-history-to-advertisers/
   domain: thenextweb.com
   image: ""
-- curated_id: f221ea6b8581b241b3078c5e6af8d35e
-  item_date: "2016-08-09 00:00:00"
-  title: 'Mysterious medical research consortium: we should own volunteers clinical
-    trial data for 5 years'
-  url: http://boingboing.net/2016/08/09/mysterious-medical-research-co.html
-  domain: boingboing.net
-  image: ""
 - curated_id: 47eb70630b3529bfe682096962739d70
   item_date: "2016-08-09 00:00:00"
   title: 'Your medical data: misappropriated by health-tech companies, off-limits
     to you'
   url: http://boingboing.net/2016/08/09/your-medical-data-misappropri.html
+  domain: boingboing.net
+  image: ""
+- curated_id: f221ea6b8581b241b3078c5e6af8d35e
+  item_date: "2016-08-09 00:00:00"
+  title: 'Mysterious medical research consortium: we should own volunteers clinical
+    trial data for 5 years'
+  url: http://boingboing.net/2016/08/09/mysterious-medical-research-co.html
   domain: boingboing.net
   image: ""
 - curated_id: 759bb638ac883b97f7533b7620b5c227
@@ -598,29 +598,23 @@
   url: http://www.remotemagazine.com/main/news/aclara-emphasizes-need-to-evaluate-total-cost-of-ownership-when-choosing-advanced-metering-and-communications-networks/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: 0d86c83c0396707139ed72700dc975de
-  item_date: "2016-08-29 00:00:00"
-  title: OpenHumans ? Donate Your Data to Science
-  url: https://blog.adafruit.com/2016/08/29/openhumans-donate-your-data-to-science/
-  domain: blog.adafruit.com
-  image: ""
 - curated_id: 797da6a296183609d88c47031452ba53
   item_date: "2016-08-29 00:00:00"
   title: How Health IT Standards Enable Patient Access to Health Data
   url: http://healthitinteroperability.com/news/how-health-it-standards-enable-patient-access-to-health-data
   domain: healthitinteroperability.com
   image: ""
-- curated_id: 3006587676faba6584f145cc35bff69b
-  item_date: "2016-08-30 00:00:00"
-  title: Putting Domains Infrastructure in the Cloud
-  url: http://bavatuesdays.com/putting-domains-infrastructure-in-the-cloud/
-  domain: bavatuesdays.com
+- curated_id: 0d86c83c0396707139ed72700dc975de
+  item_date: "2016-08-29 00:00:00"
+  title: OpenHumans ? Donate Your Data to Science
+  url: https://blog.adafruit.com/2016/08/29/openhumans-donate-your-data-to-science/
+  domain: blog.adafruit.com
   image: ""
-- curated_id: 5e82b8d284b0a822054933a51e5c82d2
+- curated_id: 3c80d59ece2c241bde8f2780f37dbcad
   item_date: "2016-08-30 00:00:00"
-  title: Jeremy Corbyn proposing digital bill of rights
-  url: http://www.bbc.co.uk/news/uk-politics-37219140
-  domain: www.bbc.co.uk
+  title: Requesting Personal User Data in Apps
+  url: https://blog.pyze.com/2016/08/29/requesting-personal-user-data-in-apps/
+  domain: blog.pyze.com
   image: ""
 - curated_id: 66e6eb46d3fe212a1859115043aeb44c
   item_date: "2016-08-30 00:00:00"
@@ -628,11 +622,23 @@
   url: http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml
   domain: www.windley.com
   image: ""
-- curated_id: 3c80d59ece2c241bde8f2780f37dbcad
+- curated_id: 5e82b8d284b0a822054933a51e5c82d2
   item_date: "2016-08-30 00:00:00"
-  title: Requesting Personal User Data in Apps
-  url: https://blog.pyze.com/2016/08/29/requesting-personal-user-data-in-apps/
-  domain: blog.pyze.com
+  title: Jeremy Corbyn proposing digital bill of rights
+  url: http://www.bbc.co.uk/news/uk-politics-37219140
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: 3006587676faba6584f145cc35bff69b
+  item_date: "2016-08-30 00:00:00"
+  title: Putting Domains Infrastructure in the Cloud
+  url: http://bavatuesdays.com/putting-domains-infrastructure-in-the-cloud/
+  domain: bavatuesdays.com
+  image: ""
+- curated_id: 26981ff7298da67d6f2683871a41af33
+  item_date: "2016-09-07 00:00:00"
+  title: 'The Rules of Retention: How Long Does Bronto Save My Data?'
+  url: http://blog.bronto.com/product/rules-retention-long-bronto-save-data/
+  domain: blog.bronto.com
   image: ""
 - curated_id: 968848924b4c03b5f16e67bfe4255001
   item_date: "2016-09-07 00:00:00"
@@ -641,29 +647,23 @@
   url: http://www.itsecurityguru.org/2016/09/07/data-ripple-effect-uk-customers-severely-underestimate-the-quantity-of-personal-data-stored-about-them/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 26981ff7298da67d6f2683871a41af33
-  item_date: "2016-09-07 00:00:00"
-  title: 'The Rules of Retention: How Long Does Bronto Save My Data?'
-  url: http://blog.bronto.com/product/rules-retention-long-bronto-save-data/
-  domain: blog.bronto.com
-  image: ""
 - curated_id: beb2af6a61b237ff1f7dee5dc0abc0d9
   item_date: "2016-09-11 00:00:00"
   title: Give Up the AWS Ghost
   url: http://bavatuesdays.com/give-up-the-aws-ghost/
   domain: bavatuesdays.com
   image: ""
-- curated_id: 2ecd0f29ac33d5f310fa56b02ff0b64c
-  item_date: "2016-09-13 00:00:00"
-  title: Clever?s commitment to protecting student data
-  url: https://blog.clever.com/2016/09/clevers-commitment-protecting-student-data/
-  domain: blog.clever.com
-  image: ""
 - curated_id: b295547cf69962fa84308139ebdec951
   item_date: "2016-09-13 00:00:00"
   title: Steven Levy profiles Carl Malamud, Boing Boings favorite rogue archivist
   url: http://boingboing.net/2016/09/13/steven-levy-profiles-carl-mala.html
   domain: boingboing.net
+  image: ""
+- curated_id: 2ecd0f29ac33d5f310fa56b02ff0b64c
+  item_date: "2016-09-13 00:00:00"
+  title: Clever?s commitment to protecting student data
+  url: https://blog.clever.com/2016/09/clevers-commitment-protecting-student-data/
+  domain: blog.clever.com
   image: ""
 - curated_id: d92baa1731b609b474870b5e441e110c
   item_date: "2016-09-17 00:00:00"
@@ -793,6 +793,12 @@
   url: https://fivethirtyeight.com/features/what-it-takes-to-truly-delete-data/
   domain: fivethirtyeight.com
   image: ""
+- curated_id: 10d2f19e13ca467d25b6584622eb1d7c
+  item_date: "2017-01-31 00:00:00"
+  title: How do we enable patients to own their data?
+  url: http://www.allscripts.com/news-insights/blog/blog/2017/01/how-do-we-enable-patients-to-own-their-data
+  domain: www.allscripts.com
+  image: ""
 - curated_id: 0aa222e683251b021bfbef02942fe772
   item_date: "2017-01-31 00:00:00"
   title: Advertising and the value of your personal data
@@ -805,23 +811,17 @@
   url: https://motherboard.vice.com/en_us/article/trumps-fcc-may-let-isps-sell-your-private-data-without-your-consent
   domain: motherboard.vice.com
   image: ""
-- curated_id: 10d2f19e13ca467d25b6584622eb1d7c
-  item_date: "2017-01-31 00:00:00"
-  title: How do we enable patients to own their data?
-  url: http://www.allscripts.com/news-insights/blog/blog/2017/01/how-do-we-enable-patients-to-own-their-data
-  domain: www.allscripts.com
+- curated_id: aa3d2be4f3039610587f37ff5ffa2879
+  item_date: "2017-02-03 00:00:00"
+  title: Information is garbage
+  url: https://techcrunch.com/2017/02/03/information-is-garbage/
+  domain: techcrunch.com
   image: ""
 - curated_id: 14f5407d57e4ac63a63722036a0fdd25
   item_date: "2017-02-03 00:00:00"
   title: "50 Percent of Americans Don\u2019t Trust Institutions to Protect Their Data"
   url: http://www.itsecurityguru.org/2017/02/03/50-percent-americans-dont-trust-institutions-protect-data/
   domain: www.itsecurityguru.org
-  image: ""
-- curated_id: aa3d2be4f3039610587f37ff5ffa2879
-  item_date: "2017-02-03 00:00:00"
-  title: Information is garbage
-  url: https://techcrunch.com/2017/02/03/information-is-garbage/
-  domain: techcrunch.com
   image: ""
 - curated_id: c8991158e7736a5ac450b58b0c9a4df3
   item_date: "2017-02-08 09:12:02"
@@ -908,5 +908,121 @@
   title: 'Awareness of How Your Data is Being Used and What to Do About It '
   url: https://www.codeproject.com/Articles/1186562/Awareness-of-How-Your-Data-is-Being-Used-and-What
   domain: www.codeproject.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_15c55197d4b:13311c6:729f6b1c
+  item_date: "2017-05-29 01:30:00"
+  title: The Firewall of the Future Is Identity
+  url: https://auth0.com/blog/the-firewall-of-the-future-is-identity
+  domain: auth0.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_15c59bd3117:5257b07:cfb784e9
+  item_date: "2017-05-30 07:22:35"
+  title: How this teen's life changed after deleting all social media
+  url: http://boingboing.net/?p=526343
+  domain: boingboing.net
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c5b9ce2c7:558bf76:cfb784e9
+  item_date: "2017-05-30 10:51:00"
+  title: How 'Human Capital' Differs from 'Human Resources'
+  url: https://www.merriam-webster.com/words-at-play/human-capital-definition
+  domain: www.merriam-webster.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15c623eda64:22887d:7c63ad1c
+  item_date: "2017-05-31 23:00:22"
+  title: "9 ways to protect your customers\u2019 data and keep them in the loop"
+  url: https://thenextweb.com/?p=1049186
+  domain: thenextweb.com
+  image: ""
+- curated_id: QMBFiKHKDBb59flaImBJuo8KmvYmaqT4WxVB/tqp2u4=_15c652d07b3:64cb5d7:cfb784e9
+  item_date: "2017-06-01 12:39:28"
+  title: New Fintech Leaders Join the Consumer Financial Data Rights Group
+  url: https://staging.www.yodlee.com/?p=15465
+  domain: staging.www.yodlee.com
+  image: ""
+- curated_id: K+k0Ofp0IKj/6LfxJ9KtXIR3zPpatEI60G8TUnfsQh0=_15c8818b817:ba7426:d0168500
+  item_date: "2017-06-08 06:51:40"
+  title: "The Digital Footprint of Europe\u2019s Refugees"
+  url: http://www.pewresearch.org/?p=292139
+  domain: www.pewresearch.org
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15c880bde5d:b95df9:d0168500
+  item_date: "2017-06-08 06:55:00"
+  title: Apple Employees in China Detained for Selling User Data
+  url: https://www.darkreading.com/attacks-breaches/apple-employees-in-china-detained-for-selling-user-data/d/d-id/1329088
+  domain: www.darkreading.com
+  image: ""
+- curated_id: YwTjCnEeIqxj44sdnT7JFQW42L9DNW4VSirj5QJk0qw=_15ca0a102a3:2df1862:e55a4d93
+  item_date: "2017-06-13 01:41:29"
+  title: If data is the new oil, who is your refiner?
+  url: https://readwrite.com/?p=98533
+  domain: readwrite.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_15ca1ad61b2:272aed:62ee016b
+  item_date: "2017-06-13 06:34:26"
+  title: This app is a perfect weapon for fighting your own online privacy war
+  url: http://mashable.com/?p=bp-48457
+  domain: mashable.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15ca2a73ad3:24d184a:47752f80
+  item_date: "2017-06-13 11:10:53"
+  title: "Instagram\u2019s archive feature goes live, letting you hide photos indefinitely"
+  url: http://techcrunch.com/?p=1503110
+  domain: techcrunch.com
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15cac11aa89:60d512:bb404dd5
+  item_date: "2017-06-15 06:59:33"
+  title: "The Digital Footprint of Europe\u2019s Refugees"
+  url: http://thegovlab.org/?p=20850
+  domain: thegovlab.org
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_15cb33ee635:7b0f4:62ee016b
+  item_date: "2017-06-16 16:29:35"
+  title: German court lashes out at Google over the 'right to be forgotten'
+  url: http://mashable.com/?p=bp-49016
+  domain: mashable.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15cb7ab81e8:51fed2:3aab93c7
+  item_date: "2017-06-17 10:11:11"
+  title: The Risk of Hospitality
+  url: http://readwriterespond.com/2017/06/the-risk-of-hospitality/
+  domain: readwriterespond.com
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15cb7eada1c:54e637:32bbcd87
+  item_date: "2017-06-17 14:11:26"
+  title: Big Data, Data Science, and Civil Rights
+  url: http://thegovlab.org/?p=20862
+  domain: thegovlab.org
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15cbd608833:475079:60392a0b
+  item_date: "2017-06-18 15:41:58"
+  title: Knight Institute Demands That President Unblock Critics on Twitter
+  url: https://knightcolumbia.org/news/knight-institute-demands-president-unblock-critics-twitter
+  domain: knightcolumbia.org
+  image: ""
+- curated_id: W9U8O8prINoVZrC8tjkQgq9ivE6dXZslCV+Cz7vETzg=_15cc13907b7:9f0ffc:60392a0b
+  item_date: "2017-06-19 09:14:49"
+  title: "Don\u2019t let your digital assets become a liability!"
+  url: http://cloudinary.com/blog/don_t_let_your_digital_assets_become_a_liability
+  domain: cloudinary.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15cc75bf2f4:6d5248:517b1451
+  item_date: "2017-06-20 13:59:03"
+  title: People trust Amazon with their personal data more than other major tech companies
+    (AMZN)
+  url: http://www.businessinsider.com/most-trusted-companies-keep-data-secure-chart-2017-6?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15cd262c2d2:15cd756:fe3a8465
+  item_date: "2017-06-22 17:32:42"
+  title: Blockchains, personal data and the challenge of governance
+  url: http://thegovlab.org/?p=20901
+  domain: thegovlab.org
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15ce3a82ea8:28e28cd:fe3a8465
+  item_date: "2017-06-26 02:00:51"
+  title: "Nextcloud\u2019s Frank Karlitschek: Enterprises Require Full Control of
+    Their Cloud Data"
+  url: https://thenewstack.io/?p=2484834
+  domain: thenewstack.io
   image: ""
 ...
